@@ -1,0 +1,25 @@
+Assets,Assets Category
+Cash: Operating,Cash
+Receivable: Intercompany Asset,Due from Related Party
+Purchase Equity,"Investments, at Fair Value"
+Unrealized Appreciation/ (Depreciation) on Investments,"Investments, at Fair Value"
+Deferred Asset. Accum Amort Debt Issuance Cost,Deferred Debit issuance Costs
+Deferred Asset Debt issuance Cost - LT,Deferred Debt issuance Costs
+Receivable: Investment Interest,Investment Interest Receivable
+Investment: Capitalized cost debt,"Investments, at Fair Value"
+Investment: Capitalized cost equities,"Investments, at Fair Value"
+Investment: Capitalized cost warrants,"Investments, at Fair Value"
+Investment: Cost of Warrants,"Investments, at Fair Value"
+Purchase: Debt,"Investments, at Fair Value"
+Purchase: PIK,"Investments, at Fair Value"
+Sale: Debt,"Investments, at Fair Value"
+Sale: PIK,"Investments, at Fair Value"
+Unrealized Appreciation/Depreciation - F/X,Unrealized
+Forward Contract: Unrealized App/Dep - Receivable,Forward Contract Receivable
+Dividend Receivable,Dividend Receivable.
+Receivable: Withholding Tax - Subsidiaries,Deferred Tax Assets
+Cash Fund Level,Cash
+"Unrealized Appreciation/Depreciation, Other",Cash
+Due from Related Party,Due from Related Party
+Prepaid: Other Expenses,Prepaid Asset
+Investment: Cost of Warrants,"Investments, at Fair Value"
